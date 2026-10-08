@@ -1,0 +1,10 @@
+{
+  "version": "0.9.0",
+  "url": "ArchStoreBIM-0.9.0.zip",
+  "sha256": "036926dd7b5ac3353077d078726608a7bc35f4e380a0c84d8d454f414ada2866",
+  "notes": {
+    "uz": "Yangi asboblar: Listlar, Nomerator, Saqlash (loyiha papkalari), Avtosaqlash va Sozlamalar oynasi.",
+    "ru": "Новые инструменты: Листы, Нумератор, Сохранение (папки проекта), Автосохранение и окно настроек.",
+    "en": "New tools: Sheets, Numbering, Save (project folders), Autosave and a Settings window."
+  }
+}
