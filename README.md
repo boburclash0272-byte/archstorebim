@@ -11,4 +11,6 @@ Bu tarmoqda (`dist`) plaginning tarqatiladigan fayllari turadi. Plagin yangilani
 
 **O'rnatish:** `ArchStoreBIM-Setup.exe` ni yuklab, ishga tushiring. Revit 2020–2026 da ishlaydi, pyRevit kerak emas.
 
+**Akkaunt:** 0.26.0 dan boshlab dastur akkaunt bilan ishlaydi. Birinchi marta istalgan asbobni bosganda ro'yxatdan o'tish oynasi chiqadi; administrator tasdiqlagach asboblar ochiladi. Savollar uchun: @Bobur_architects_supportbot.
+
 **Yangilash:** Revit'da ArchStore BIM > Sozlamalar > "Yangilanishni tekshirish". Yangi versiya Revit qayta ochilganda ishlaydi.
