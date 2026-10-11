@@ -1,0 +1,10 @@
+{
+  "version": "0.25.0",
+  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.25.0.zip",
+  "sha256": "778aebf21ae88521b81ece3be4d5434625cbd952f354abee6cf20e0ca7a5ffd3",
+  "notes": {
+    "uz": "Yangi asboblar: DWG eksport va PDF eksport (listlarni bitta yoki alohida fayllarga); Devor otdelkasi - yupqa otdelka devorlari va rangli otdelka rejasi; Razvyortka - devor ko'rinishlari, listlarga tartibli joylash, «План видовых точек» va razvyortkalarga avtomat razmer; Mebel ko'rinishlari - har bir mebel uchun tepadan, old, yon va 3D ko'rinish, razmerlari bilan. Nomeratorda listlarni sichqoncha bilan sudrab ko'chirish.",
+    "ru": "Новые инструменты: Экспорт DWG и Экспорт PDF (листы в один файл или по отдельности); Отделка стен - тонкие стены отделки и цветной план отделки; Развертка стен - развертки, размещение на листах, «План видовых точек» и автоматические размеры на развертках; Виды мебели - для каждой мебели виды сверху, спереди, сбоку и 3D, с размерами. В Нумераторе листы можно перетаскивать мышью.",
+    "en": "New tools: DWG export and PDF export (sheets into one file or separate files); Wall finish - thin finish walls and a coloured finish plan; Wall elevations - elevations, tidy sheet layout, the view points plan and automatic dimensions on elevations; Furniture views - top, front, side and 3D views for every piece of furniture, with dimensions. Sheets in the Numerator can be dragged with the mouse."
+  }
+}
