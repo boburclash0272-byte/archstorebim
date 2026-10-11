@@ -1,10 +1,10 @@
 {
-  "version": "0.26.0",
-  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.26.0.zip",
-  "sha256": "596951a2eb920586d5f92b3774afc331148d841befbacb34e0b87db5c5c930cc",
+  "version": "0.27.0",
+  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.27.0.zip",
+  "sha256": "57c2fb0eb0e4ee12811dcde48e47e10ce158fa37bc5b86e1aabd99ec22cc469f",
   "notes": {
-    "uz": "Endi ArchStore BIM akkaunt bilan ishlaydi. Yangilangach istalgan asbobni bosing: oynada ro'yxatdan o'ting (ism, telefon yoki Telegram, email, parol). Administrator tasdiqlagach asboblar ochiladi. Bitta akkaunt 2 ta kompyuterda ishlaydi, internetsiz 7 kungacha. Savol bo'lsa: @Bobur_architects_supportbot. Shuningdek 0.25 dagi yangiliklar: DWG va PDF eksport, Devor otdelkasi, Razvyortka va uning razmerlari, Mebel ko'rinishlari, Nomeratorda listlarni sudrab ko'chirish.",
-    "ru": "Теперь ArchStore BIM работает по аккаунту. После обновления нажмите любой инструмент: в окне зарегистрируйтесь (имя, телефон или Telegram, email, пароль). После подтверждения администратором инструменты откроются. Один аккаунт работает на 2 компьютерах, без интернета до 7 дней. Вопросы: @Bobur_architects_supportbot. Также новое из 0.25: экспорт DWG и PDF, Отделка стен, Развертка стен с размерами, Виды мебели, перетаскивание листов в Нумераторе.",
-    "en": "ArchStore BIM now works with an account. After updating, click any tool: register in the window (name, phone or Telegram, email, password). The tools open once the administrator approves you. One account works on 2 computers, and up to 7 days without internet. Questions: @Bobur_architects_supportbot. Also new since 0.25: DWG and PDF export, Wall finish, Wall elevations with dimensions, Furniture views, dragging sheets in the Numerator."
+    "uz": "Yangi: yangi versiya chiqqanda Revit ochilgach o'ng pastki burchakda kichik eslatma chiqadi - «Yangilash» ni bossangiz yangilanadi. Dasturga logotip qo'shildi va ikonkalar yangi rangda. Eslatma: ArchStore BIM akkaunt bilan ishlaydi - istalgan asbobni bosing, oynada ro'yxatdan o'ting (ism, telefon yoki Telegram, email, parol); administrator tasdiqlagach asboblar ochiladi. Savol bo'lsa: @Bobur_architects_supportbot.",
+    "ru": "Новое: когда выходит новая версия, после запуска Revit в правом нижнем углу появляется небольшое уведомление - нажмите «Обновить». В программе появился логотип, значки в новых цветах. Напоминание: ArchStore BIM работает по аккаунту - нажмите любой инструмент и зарегистрируйтесь в окне (имя, телефон или Telegram, email, пароль); после подтверждения администратором инструменты откроются. Вопросы: @Bobur_architects_supportbot.",
+    "en": "New: when a new version comes out, a small notice appears in the bottom right corner after Revit starts - press Update. The program now carries its logo and the icons have new colours. Reminder: ArchStore BIM works with an account - click any tool and register in the window (name, phone or Telegram, email, password); the tools open once the administrator approves you. Questions: @Bobur_architects_supportbot."
   }
 }
