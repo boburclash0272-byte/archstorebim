@@ -1,10 +1,10 @@
 {
-  "version": "0.28.0",
-  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.28.0.zip",
-  "sha256": "5a3154a991a25de4a5718f8ad8bd0801c5904b7becd8f04b672ca5ded38b2c65",
+  "version": "0.29.0",
+  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.29.0.zip",
+  "sha256": "248d798269be5bbafa228e3345ae9d80a909de35b2ab5775ea3b06c8244e83fd",
   "notes": {
-    "uz": "Yangi: Genplan bo'limlari — Relyef (s'yomkadan relyef, otmetkalar, nishab, gorizontallar, kartogramma, qurilish to'ri va koordinata bitta oynada), Genplan (Ko'cha: yo'l, bordyur, trotuar, razmetka, chiroq, daraxt va skameyka bir yo'la, relyefga yotadi; Maydon, Bordyur, Lotok, Daraxtlar) va Vedomostlar (TEP, qoplamalar va ish hajmlari, ko'kalamzor va MAF — ГОСТ 21.508 shaklidagi Revit spetsifikatsiyalari, kataklarini o'zgartirish mumkin, tanlangan listga qo'yiladi). Katalogda qorong'i mavzudagi matn rangi tuzatildi, oyna burchaklari yumaloq (Windows 11). Savol bo'lsa: @Bobur_architects_supportbot.",
-    "ru": "Новое: разделы генплана — Рельеф (рельеф по съёмке, отметки, уклоны, горизонтали, картограмма, строительная сетка и координаты в одном окне), Генплан (Улица: дорога, бордюр, тротуары, разметка, фонари, деревья и скамьи сразу, укладывается на рельеф; Площадка, Бордюр, Лоток, Деревья) и Ведомости (ТЭП, покрытия и объёмы работ, озеленение и МАФ — спецификации Revit по форме ГОСТ 21.508, ячейки можно менять, размещаются на выбранном листе). В Каталоге исправлен цвет текста в тёмной теме, у окон скруглённые углы (Windows 11). Вопросы: @Bobur_architects_supportbot.",
-    "en": "New: site plan sections — Terrain (survey terrain, marks, slopes, contours, cut and fill, construction grid and coordinates in one window), Site plan (Street: road, curbs, sidewalks, markings, lamps, trees and benches at once, laid on the terrain; Area, Curb, Gutter, Trees) and Schedules (site figures, paving and quantities, planting and small forms — Revit schedules in the GOST 21.508 form, editable cells, placed on the chosen sheet). The Catalog text colour in the dark theme is fixed and windows have rounded corners (Windows 11). Questions: @Bobur_architects_supportbot."
+    "uz": "Yangi: Saqlash, Avtosaqlash, Listlar va Nomerator endi ro'yxatdan o'tmasdan, bepul ishlaydi. Qolgan asboblar pulli versiyada: akkaunt faol bo'lmasa ikonkasida qulf belgisi turadi, bosilganda Akkaunt oynasi ochiladi - ro'yxatdan o'tib, obuna tasdiqlangach qulf o'zi yo'qoladi. Savol bo'lsa: @Bobur_architects_supportbot.",
+    "ru": "Новое: Сохранение, Автосохранение, Листы и Нумератор теперь работают бесплатно, без регистрации. Остальные инструменты - в платной версии: пока аккаунт не активен, на значке виден замок, а по нажатию открывается окно Аккаунта - после регистрации и подтверждения подписки замок исчезает сам. Вопросы: @Bobur_architects_supportbot.",
+    "en": "New: Save, Autosave, Sheets and Numbering now work for free, without registration. The other tools are in the paid version: while the account is not active their icons carry a lock and clicking opens the Account window - the lock disappears by itself once you register and the subscription is approved. Questions: @Bobur_architects_supportbot."
   }
 }
