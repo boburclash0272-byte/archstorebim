@@ -1,10 +1,10 @@
 {
-  "version": "0.29.0",
-  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.29.0.zip",
-  "sha256": "248d798269be5bbafa228e3345ae9d80a909de35b2ab5775ea3b06c8244e83fd",
+  "version": "0.30.0",
+  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.30.0.zip",
+  "sha256": "a410343c9e39fdb6f3b246e8d0982f794c617b2aaf89d2cb8eaf556267f74211",
   "notes": {
-    "uz": "Yangi: Saqlash, Avtosaqlash, Listlar va Nomerator endi ro'yxatdan o'tmasdan, bepul ishlaydi. Qolgan asboblar pulli versiyada: akkaunt faol bo'lmasa ikonkasida qulf belgisi turadi, bosilganda Akkaunt oynasi ochiladi - ro'yxatdan o'tib, obuna tasdiqlangach qulf o'zi yo'qoladi. Savol bo'lsa: @Bobur_architects_supportbot.",
-    "ru": "Новое: Сохранение, Автосохранение, Листы и Нумератор теперь работают бесплатно, без регистрации. Остальные инструменты - в платной версии: пока аккаунт не активен, на значке виден замок, а по нажатию открывается окно Аккаунта - после регистрации и подтверждения подписки замок исчезает сам. Вопросы: @Bobur_architects_supportbot.",
-    "en": "New: Save, Autosave, Sheets and Numbering now work for free, without registration. The other tools are in the paid version: while the account is not active their icons carry a lock and clicking opens the Account window - the lock disappears by itself once you register and the subscription is approved. Questions: @Bobur_architects_supportbot."
+    "uz": "0.30.0 yangiliklari: Model salomatligi (ogohlantirishlar, ishlatilmaganlarni tozalash, CAD fayllar); Shift va Plintus (otdelka zanjiri yopildi); Markirovka (xona, eshik, derazalarni raqamlash, teg qo'yish, teglarni tekislash); List yaratish (AR va Interyer to'plami); Razmerlar: markirovka va kladka rejalari; Sozlamalar yangilandi: vkladkalarni fayl bo'yicha ranglash, zahira nusxalar (_Backup, 1–20 ta). Do'konda modellarni alohida sotib olish va filtr (Bepul / Pullik / Sotib olingan). Ro'yxatdan o'tgan har kimga 7 kunlik bepul sinov; ofis, talaba va do'st kodlari. Savol bo'lsa: @Bobur_architects_supportbot.",
+    "ru": "Новое в 0.30.0: Здоровье модели (предупреждения, очистка неиспользуемого, CAD-файлы); Потолок и Плинтус (цепочка отделки завершена); Маркировка (нумерация помещений, дверей и окон, расстановка и выравнивание марок); Создание листов (комплект АР и Интерьера); Размеры: маркировочный и кладочный планы; обновлённые Настройки: цвет вкладок по файлу, резервные копии (_Backup, 1–20 шт.). В магазине - покупка моделей по отдельности и фильтр (Бесплатные / Платные / Купленные). Каждому после регистрации - 7 дней бесплатно; коды офиса, студента и друга. Вопросы: @Bobur_architects_supportbot.",
+    "en": "New in 0.30.0: Model health (warnings, purge unused, CAD files); Ceiling and Skirting (the finish chain is complete); Marks (number rooms, doors and windows, place and align tags); Sheet set creation (AR and Interior sets); Dimensions: marking and masonry plans; refreshed Settings: tab colours by file, backup copies (_Backup, 1–20). The store sells models one by one and has a filter (Free / Paid / Bought). Everyone who registers gets a free 7-day trial; office, student and friend codes. Questions: @Bobur_architects_supportbot."
   }
 }
