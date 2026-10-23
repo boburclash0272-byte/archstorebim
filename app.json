@@ -1,10 +1,10 @@
 {
-  "version": "0.30.0",
-  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.30.0.zip",
-  "sha256": "a410343c9e39fdb6f3b246e8d0982f794c617b2aaf89d2cb8eaf556267f74211",
+  "version": "0.31.0",
+  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.31.0.zip",
+  "sha256": "2d50e9072a4fcfe8f53b22d568f169a0ca60b5ca7c1f5e1eb59677a8053aca33",
   "notes": {
-    "uz": "0.30.0 yangiliklari: Model salomatligi (ogohlantirishlar, ishlatilmaganlarni tozalash, CAD fayllar); Shift va Plintus (otdelka zanjiri yopildi); Markirovka (xona, eshik, derazalarni raqamlash, teg qo'yish, teglarni tekislash); List yaratish (AR va Interyer to'plami); Razmerlar: markirovka va kladka rejalari; Sozlamalar yangilandi: vkladkalarni fayl bo'yicha ranglash, zahira nusxalar (_Backup, 1–20 ta). Do'konda modellarni alohida sotib olish va filtr (Bepul / Pullik / Sotib olingan). Ro'yxatdan o'tgan har kimga 7 kunlik bepul sinov; ofis, talaba va do'st kodlari. Savol bo'lsa: @Bobur_architects_supportbot.",
-    "ru": "Новое в 0.30.0: Здоровье модели (предупреждения, очистка неиспользуемого, CAD-файлы); Потолок и Плинтус (цепочка отделки завершена); Маркировка (нумерация помещений, дверей и окон, расстановка и выравнивание марок); Создание листов (комплект АР и Интерьера); Размеры: маркировочный и кладочный планы; обновлённые Настройки: цвет вкладок по файлу, резервные копии (_Backup, 1–20 шт.). В магазине - покупка моделей по отдельности и фильтр (Бесплатные / Платные / Купленные). Каждому после регистрации - 7 дней бесплатно; коды офиса, студента и друга. Вопросы: @Bobur_architects_supportbot.",
-    "en": "New in 0.30.0: Model health (warnings, purge unused, CAD files); Ceiling and Skirting (the finish chain is complete); Marks (number rooms, doors and windows, place and align tags); Sheet set creation (AR and Interior sets); Dimensions: marking and masonry plans; refreshed Settings: tab colours by file, backup copies (_Backup, 1–20). The store sells models one by one and has a filter (Free / Paid / Bought). Everyone who registers gets a free 7-day trial; office, student and friend codes. Questions: @Bobur_architects_supportbot."
+    "uz": "0.31.0 yangiliklari: barcha asboblar endi bepul - faqat ro'yxatdan o'tish kifoya. Pulli faqat do'konda narxi ko'rsatilgan modellar. Revit 2027 qo'llab-quvvatlanadi. Markirovkada raqamlash tuzatildi. Savol bo'lsa: @Bobur_architects_supportbot",
+    "ru": "Новое в 0.31.0: все инструменты теперь бесплатны - достаточно зарегистрироваться. Платные только модели с ценой в магазине. Поддержка Revit 2027. Исправлена нумерация в Маркировке. Вопросы: @Bobur_architects_supportbot",
+    "en": "New in 0.31.0: all tools are now free - registering is enough. Only store models with a price are paid. Revit 2027 is supported. Numbering in Marks is fixed. Questions: @Bobur_architects_supportbot"
   }
 }
