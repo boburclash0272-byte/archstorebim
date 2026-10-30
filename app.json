@@ -1,10 +1,10 @@
 {
-  "version": "0.31.0",
-  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.31.0.zip",
-  "sha256": "2d50e9072a4fcfe8f53b22d568f169a0ca60b5ca7c1f5e1eb59677a8053aca33",
+  "version": "0.33.0",
+  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.33.0.zip",
+  "sha256": "5ef872bb862632d4763d6dd8a05ba3f41f6c2d903c4def77b82a8b94184f30e5",
   "notes": {
-    "uz": "0.31.0 yangiliklari: barcha asboblar endi bepul - faqat ro'yxatdan o'tish kifoya. Pulli faqat do'konda narxi ko'rsatilgan modellar. Revit 2027 qo'llab-quvvatlanadi. Markirovkada raqamlash tuzatildi. Savol bo'lsa: @Bobur_architects_supportbot",
-    "ru": "Новое в 0.31.0: все инструменты теперь бесплатны - достаточно зарегистрироваться. Платные только модели с ценой в магазине. Поддержка Revit 2027. Исправлена нумерация в Маркировке. Вопросы: @Bobur_architects_supportbot",
-    "en": "New in 0.31.0: all tools are now free - registering is enough. Only store models with a price are paid. Revit 2027 is supported. Numbering in Marks is fixed. Questions: @Bobur_architects_supportbot"
+    "uz": "0.33.0 yangiliklari: «Konfigurator mebel» bo'limi - korpus mebel, yumshoq mebel, stol-stul, deraza va eshikni sozlab, bir tugma bilan parametrik Revit family yasaydi. Yumshoq mebelda eni, chuqurligi, balandligi, o'tirish balandligi va boshqa o'lchamlar Revit'da o'zgaradi. Korpus mebel planda shartli belgi bilan, fasadda eshik ochilish belgisi bilan chiziladi. Konfigurator plagin mavzusiga (yorug'/qorong'i) bo'ysunadi. Savol bo'lsa: @Bobur_architects_supportbot",
+    "ru": "Новое в 0.33.0: раздел «Конфигуратор мебели» - корпусная и мягкая мебель, столы и стулья, окна и двери: настройте и одной кнопкой получите параметрическое семейство Revit. У мягкой мебели в Revit меняются ширина, глубина, высота, высота сиденья и другие размеры. Корпусная мебель в плане показывается условным обозначением, на фасаде - знаком открывания дверей. Конфигуратор следует теме плагина (светлая/тёмная). Вопросы: @Bobur_architects_supportbot",
+    "en": "New in 0.33.0: the «Furniture configurator» - cabinets, upholstered furniture, tables and chairs, windows and doors: set them up and get a parametric Revit family in one click. Upholstered furniture keeps width, depth, height, seat height and other sizes editable in Revit. Cabinets show a conventional symbol in plan and door swing marks in elevation. The configurator follows the plugin theme (light/dark). Questions: @Bobur_architects_supportbot"
   }
 }
