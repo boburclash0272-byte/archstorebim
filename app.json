@@ -1,10 +1,10 @@
 {
-  "version": "0.34.1",
-  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.34.1.zip",
-  "sha256": "585f9c4ad925b443adcc6c1fb71add79872c9b057987673199ab108fb46380ee",
+  "version": "0.35.0",
+  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.35.0.zip",
+  "sha256": "2d1972a3032e4b6cccee91685dbfc3281d1c0cd5506a444e1f3c0bfbddbb9b4f",
   "notes": {
-    "uz": "0.34.1 yangiliklari: Konfiguratorda yasalgan mebel endi Katalogga o'zi qo'shiladi (Konfigurator bo'limi) va «Konfiguratorda ochish» tugmasi bilan qayta o'zgartiriladi. OBJ dan olib kirilgan modelga material sozlamasi: rang, nom va tekstura (Max'dagi MTL va rasmlardan) - Realistic va renderda ko'rinadi, har material alohida parametr. Avtomatik yangilanish ishlaydi. OBJ silliq shakl va Oshxona hali sinovda. Savol bo'lsa: @Bobur_architects_supportbot",
-    "ru": "Новое в 0.34.1: Мебель, созданная в конфигураторе, теперь сама добавляется в Каталог (раздел Konfigurator) и открывается для изменения кнопкой «Открыть в конфигураторе». Для моделей из OBJ - настройка материалов: цвет, имя и текстура (из MTL и изображений 3ds Max) - видны в режиме Realistic и на рендере, у каждого материала свой параметр. Работает автоматическое обновление. Гладкая форма из OBJ и Кухня пока в тестировании. Вопросы: @Bobur_architects_supportbot",
-    "en": "New in 0.34.1: Furniture built in the configurator is now added to the Catalog automatically (Konfigurator section) and can be reopened for changes with «Open in configurator». Models imported from OBJ get material settings: colour, name and texture (from the 3ds Max MTL and images), visible in Realistic view and renders, one parameter per material. Automatic updates are active. OBJ smooth shape and Kitchen are still in testing. Questions: @Bobur_architects_supportbot"
+    "uz": "0.35.0 yangiliklari: Razmerlar oynasida yangi «Montaj» rejimi (sinovda) - montaj rejasiga avtomatik razmer: har devor bo'ylab xonalarni kesib o'tuvchi zanjir (peregorodka, ustun, eshik-deraza), qoplama bo'lsa g'ishtgacha, tashqi devorda xonalar jami. Faqat shu asbob qo'ygan razmerlar yangilanadi. Anonim foydalanish statistikasi (Sozlamalarda o'chiriladi). Savol bo'lsa: @Bobur_architects_supportbot",
+    "ru": "Новое в 0.35.0: В окне «Размеры» новый режим «Монтаж» (тест) - автоматические размеры монтажного плана: цепочки вдоль стен через помещения (перегородки, колонны, проёмы), при облицовке - до кирпича, по наружным стенам - итог по помещениям. Обновляются только размеры этого инструмента. Анонимная статистика использования (отключается в Настройках). Вопросы: @Bobur_architects_supportbot",
+    "en": "New in 0.35.0: New «Layout» mode in the Dimensions window (beta) - automatic dimensions for layout plans: chains along walls across rooms (partitions, columns, openings), through cladding to the structure, room totals on exterior walls. Only dimensions placed by this tool are replaced. Anonymous usage statistics (can be switched off in Settings). Questions: @Bobur_architects_supportbot"
   }
 }
