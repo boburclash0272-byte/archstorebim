@@ -1,10 +1,10 @@
 {
-  "version": "0.38.0",
-  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.38.0.zip",
-  "sha256": "db3c070836b09cda8cf6e3cdc79356a439b1ead68ba8d308e0eee74244cb3d0b",
+  "version": "0.39.0",
+  "url": "https://raw.githubusercontent.com/boburclash0272-byte/archstorebim/dist/ArchStoreBIM-0.39.0.zip",
+  "sha256": "e20e4bbde0781d8b81b8aaa27883465841638c409c05ac057f0c10bd956e48d6",
   "notes": {
-    "uz": "0.38.0 yangiliklari: Konfiguratorda yasalgan chiroqlarni endi Revit'ning o'zida o'zgartirsa bo'ladi. Edit Type → «Размеры» bo'limida o'lchamlar (diametr, balandlik, uzunlik, osma uzunligi, soni, burilish va boshqalar): qiymatni o'zgartirib OK bossangiz, chiroq yangi o'lcham bilan avtomatik qayta yasaladi va loyihadagi barcha nusxalari yangilanadi. Materiallar va W/lm/K saqlanadi. Family'da bir nechta tur bo'lsa, o'zgargan tur alohida family'ga ajraladi. Noto'g'ri qiymat kiritilsa - ogohlantirish va eski qiymat qaytariladi. Shakl tanlovlari (doira/kvadrat, abajur turi) Konfiguratorda o'zgartiriladi. Savol bo'lsa: @Bobur_architects_supportbot",
-    "ru": "Новое в 0.38.0: светильники, созданные в Конфигураторе, теперь можно менять прямо в Revit. В Изменить тип → «Размеры» - размеры (диаметр, высота, длина, длина подвеса, количество, поворот и др.): измените значение и нажмите ОК - светильник автоматически перестроится с новыми размерами, все экземпляры в проекте обновятся. Материалы и Вт/лм/К сохраняются. Если в семействе несколько типов, изменённый тип выделяется в отдельное семейство. При недопустимом значении - предупреждение и возврат прежнего значения. Выбор формы (круг/квадрат, тип абажура) меняется в Конфигураторе. Вопросы: @Bobur_architects_supportbot",
-    "en": "New in 0.38.0: lighting fixtures made in the Configurator can now be changed right in Revit. Edit Type → «Dimensions» lists their sizes (diameter, height, length, drop length, count, tilt and more): change a value and press OK - the fixture is rebuilt automatically and every instance in the project updates. Materials and W/lm/K are kept. If the family has several types, the changed type is split into its own family. An invalid value shows a warning and is reverted. Shape choices (round/square, shade type) are changed in the Configurator. Questions: @Bobur_architects_supportbot"
+    "uz": "0.39.0 yangiliklari: Devor otdelkasi - yaratilgan otdelka endi asosiy devor yuziga to'g'ri yopishadi (avval yarim qalinligicha devor ichiga kirib qolardi). Vkladkalar ranglari - Windows'da fayl kengaytmasi (.rvt) ko'rsatilgan-ko'rsatilmaganidan qat'i nazar, har bir fayl vkladkalari o'z rangini oladi. Savol bo'lsa: @Bobur_architects_supportbot",
+    "ru": "Новое в 0.39.0: Отделка стен - созданная отделка теперь точно прилегает к поверхности основной стены (раньше уходила внутрь стены на половину толщины). Цвета вкладок - вкладки каждого файла получают свой цвет независимо от того, показывает ли Windows расширение файла (.rvt). Вопросы: @Bobur_architects_supportbot",
+    "en": "New in 0.39.0: Wall finishes - created finishes now sit exactly on the host wall face (previously they sank into the wall by half their thickness). Tab colours - each file's view tabs get their colour whether or not Windows shows the file extension (.rvt). Questions: @Bobur_architects_supportbot"
   }
 }
